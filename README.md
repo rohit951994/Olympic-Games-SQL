@@ -31,3 +31,6 @@ This is the list of all question that will be answered through this analysis :
 18. Which countries have never won gold medal but have won silver/bronze medals?
 19. In which Sport/event, India has won highest medals.
 20. Break down all olympic games where india won medal for Hockey and how many medals in each olympic games.
+
+
+I have attached the SQL query file  for reference and word file with all the output result .
